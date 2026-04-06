@@ -1,7 +1,7 @@
 Glutinium
 =========
 
-Glutinium - OpenWRT custom packages for extends functionality
+Glutinium - OpenWRT & Buildroot custom packages for extends functionality
 
 
 Supporting
